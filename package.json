@@ -1,0 +1,16 @@
+{
+  "name": "repro-msw-17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wds"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.3.2",
+    "@web/mocks": "^0.1.9"
+  }
+}
